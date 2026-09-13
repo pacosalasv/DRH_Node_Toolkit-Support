@@ -1,0 +1,16 @@
+{
+  "description": "Planned public support and documentation hub for DRH - Node Toolkit. No installable release is hosted on GitHub.",
+  "homepage": "https://github.com/pacosalasv/DRH_Addons_Hub",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "blender",
+    "blender-addon",
+    "node-editor",
+    "node-tools",
+    "workflow",
+    "technical-support",
+    "drh"
+  ]
+}
